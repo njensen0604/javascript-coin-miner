@@ -1,0 +1,8 @@
+{
+    "extName": {
+        "message": "Javascript Coin Miner"
+    },
+    "extDescription": {
+        "message": "Mine for crypto-currency coins (i.e. Monero) in the background while you browse."
+    }
+}
